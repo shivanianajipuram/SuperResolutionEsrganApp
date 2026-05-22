@@ -59,7 +59,7 @@ Image Upload → Preprocessing → Real-ESRGAN Model → Inference → Upscaling
 ---
 
 # 📁 Project Structure
-
+```bash
 SuperResolutionApp/
 │
 ├── app.py
@@ -71,7 +71,7 @@ SuperResolutionApp/
 │
 ├── sample_images/
 └── README.md
-
+```
 ---
 
 # 🚀 Local Setup Steps
@@ -79,50 +79,46 @@ SuperResolutionApp/
 ---
 
 ## 1. Clone the repository
-
+```bash
 git clone https://github.com/shivanianajipuram/SuperResolutionEsrganApp.git
 cd SuperResolutionEsrganApp
-
+```
 ---
 
 ## 2. Create virtual environment (recommended)
-
+```bash
 python -m venv venv
 venv\Scripts\activate   # Windows
-
+```
 ---
 
 ## 3. Install dependencies
-
+```bash
 pip install -r requirements.txt
 pip install git+https://github.com/xinntao/Real-ESRGAN.git
-
+```
 ---
 
 ## 4. Download model weights
 
 Download:
+```bash
 RealESRGAN_x4plus.pth
-
+```
 From:
+```bash
 https://github.com/xinntao/Real-ESRGAN/releases
-
+```
 Place inside:
-
+```bash
 weights/RealESRGAN_x4plus.pth
-
+```
 ---
 # NOTE- copy the whole path which tracks to weights/RealESRGAN_x4plus.pth, paste it in the infernece.py MODEL_PATH variable.
 ## 5. Run application
-
+```bash
 streamlit run app.py
-
----
-
-# 🌐 Open in browser
-
-http://localhost:8501
-
+```
 ---
 
 # 🧪 Input to System
