@@ -187,3 +187,21 @@ This project demonstrates:
 - Model loading + inference pipeline
 - Web app deployment (Streamlit)
 - End-to-end AI system design
+
+
+
+#Outputs-
+THE STREAMLIT PAGE LOOKS LIKE-
+##steps are- 
+
+1.Upload Image
+2.After Upload, Click on enhance Image
+3.Then Click on Download Image,then It stores Image inside local PC downloads/
+
+<img width="205" height="637" alt="OutputforMeerkat" src="https://github.com/user-attachments/assets/38d7f8aa-2e2a-4670-bd3f-8fcbf02250e4" />
+
+
+<img width="543" height="620" alt="WhatsApp Image 2026-05-22 at 6 35 08 PM" src="https://github.com/user-attachments/assets/15f69803-d781-4c40-87a3-00f26f0da06a" />
+
+
+<img width="420" height="512" alt="WhatsApp Image 2026-05-22 at 6 43 12 PM" src="https://github.com/user-attachments/assets/a3861a86-5464-48f9-8ab4-d4fb0ecdac8b" />
