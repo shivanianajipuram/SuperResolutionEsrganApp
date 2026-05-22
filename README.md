@@ -186,13 +186,18 @@ This project demonstrates:
 
 
 
-#Outputs-
+## Outputs-
 THE STREAMLIT PAGE LOOKS LIKE-
-##steps are- 
+## steps are- 
 
 1.Upload Image
+---
 2.After Upload, Click on enhance Image
+---
 3.Then Click on Download Image,then It stores Image inside local PC downloads/
+---
+
+
 
 <img width="205" height="637" alt="OutputforMeerkat" src="https://github.com/user-attachments/assets/38d7f8aa-2e2a-4670-bd3f-8fcbf02250e4" />
 
