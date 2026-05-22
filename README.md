@@ -186,9 +186,9 @@ This project demonstrates:
 
 
 
-## Outputs-
-THE STREAMLIT PAGE LOOKS LIKE-
-## steps are- 
+# Outputs-
+
+# Steps are- 
 
 1.Upload Image
 ---
