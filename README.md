@@ -149,22 +149,18 @@ Image → Preprocessing → Feature Extraction → RRDBNet GAN → Upscaling →
 ---
 
 # ☁️ Deployment Note (IMPORTANT)
-
 This project uses heavy PyTorch + GAN inference.
-
+You can run Real-ESRGAN locally, but you cannot reliably deploy the pip version on Hugging Face or Render CPU spaces without breaking dependencies.
 ⚠️ Limitations:
 - CPU-based cloud deployment is slow
 - First inference takes time (model loading delay)
 - GPU is strongly recommended
 
+
 👉 Best performance:
 - Local machine (recommended)
 - GPU environments
 
-## LIVE DEMO
-```bash
-https://superresolutionesrganapp.onrender.com
-```
 
 ---
 
