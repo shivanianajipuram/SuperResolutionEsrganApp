@@ -114,7 +114,9 @@ Place inside:
 weights/RealESRGAN_x4plus.pth
 ```
 ---
-# NOTE- copy the whole path which tracks to weights/RealESRGAN_x4plus.pth, paste it in the infernece.py MODEL_PATH variable.
+## NOTE- copy the whole path which tracks to weights/RealESRGAN_x4plus.pth, paste it in the infernece.py MODEL_PATH variable.
+---
+
 ## 5. Run application
 ```bash
 streamlit run app.py
@@ -159,12 +161,14 @@ This project uses heavy PyTorch + GAN inference.
 - Local machine (recommended)
 - GPU environments
 
-#LIVE DEMO
+## LIVE DEMO
 ```bash
-
+https://superresolutionesrganapp.onrender.com
 ```
 
 ---
+
+
 
 # 💣 Important Note
 
