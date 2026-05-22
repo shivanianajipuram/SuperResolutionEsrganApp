@@ -188,8 +188,6 @@ This project demonstrates:
 
 # Outputs-
 
-# Steps are- 
-
 1.Upload Image
 ---
 2.After Upload, Click on enhance Image
